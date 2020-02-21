@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
                             color: Colors.black26,
                           ),
                           hintStyle:
-                          TextStyle( color: Colors.grey, fontSize: 13 ),
+                          TextStyle( color: Colors.red, fontSize: 13 ),
                           hintText: "Rechercher votre destination",
                         ),
                       ),
